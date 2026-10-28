@@ -1,3 +1,5 @@
+```mermaid
+
 flowchart LR
     M([Мүше])
     T([Тренер])
